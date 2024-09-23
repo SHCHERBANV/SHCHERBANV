@@ -33,9 +33,9 @@ Description of the project, technologies used, and your role in the project.
 ## Skills
 
 - **Programming & Scripting:** Python, Bash, PowerShell
-- **CI/CD:** Jenkins, GitHub Actions
+- **CI/CD:**  GitHub Actions
 - **Monitoring & Logging:** Prometheus, Grafana
-- **Cloud Platforms:** AWS, Azure
+- **Cloud Platforms:** Azure
 - **Containerization:** Docker, Kubernetes
 - **Infrastructure as Code:** Terraform
 - **Database Management:** SQL
