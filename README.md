@@ -50,7 +50,7 @@ Script Development: Wrote a PowerShell script to deploy a VM and install the ToD
 Automation: Configured VM extension to run a Bash script that clones the app from a GitHub repository.
 Deployment: Deployed the application and verified it runs on the VM.
 
-### [CI/CD_ pipeline](https://github.com/SHCHERBANV/devops_todolist_cicd_task_6_polish_pipeline/tree/develop)
+### [CI/CD pipeline](https://github.com/SHCHERBANV/devops_todolist_cicd_task_6_polish_pipeline/tree/develop)
 
 This project improves the CI/CD pipeline for a Django-based ToDo app by integrating Docker and GitHub Actions. It automates building and pushing Docker images, runs tests across multiple environments, and enforces branch protection with manual approvals for staging deployments.
 
