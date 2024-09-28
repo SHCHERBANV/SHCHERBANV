@@ -17,7 +17,7 @@ I’m open to collaborating on open-source DevOps projects, especially those inv
 
 ## Projects
 
-### [Kubernetes_helm_charts](https://github.com/SHCHERBANV/devops_todolist_kubernetes_task_12_helm_charts/tree/develop)
+### [Kubernetes Helm charts](https://github.com/SHCHERBANV/devops_todolist_kubernetes_task_12_helm_charts/tree/develop)
 
 Deployed a Django-based ToDo list application with a MySQL database in a Kubernetes cluster using Helm charts. The setup supports automated scaling, resource management, and monitoring.
 
@@ -50,7 +50,7 @@ Script Development: Wrote a PowerShell script to deploy a VM and install the ToD
 Automation: Configured VM extension to run a Bash script that clones the app from a GitHub repository.
 Deployment: Deployed the application and verified it runs on the VM.
 
-### [ci/cd pipeline](https://github.com/SHCHERBANV/devops_todolist_cicd_task_6_polish_pipeline/tree/develop)
+### [CI/CD_ pipeline](https://github.com/SHCHERBANV/devops_todolist_cicd_task_6_polish_pipeline/tree/develop)
 
 This project improves the CI/CD pipeline for a Django-based ToDo app by integrating Docker and GitHub Actions. It automates building and pushing Docker images, runs tests across multiple environments, and enforces branch protection with manual approvals for staging deployments.
 
