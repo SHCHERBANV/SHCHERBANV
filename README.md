@@ -11,7 +11,7 @@ I’m open to collaborating on open-source DevOps projects, especially those inv
 
 📫 **How to Reach Me**
 - **Email:** [shcherbanvasyl@gmail.com](mailto:shcherbanvasyl@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vasyl-shcherban/)
 - **GitHub:** [SHCHERBANV](https://github.com/SHCHERBANV)
 
 ⚡ **Fun Fact**
