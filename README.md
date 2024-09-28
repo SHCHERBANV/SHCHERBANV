@@ -19,7 +19,7 @@ I’ve worked on various hospitality projects overseas, giving me a unique persp
 
 ## Projects
 
-### [Kubernetes_helm_charts]([https://github.com/SHCHERBANV/project-1](https://github.com/SHCHERBANV/devops_todolist_kubernetes_task_12_helm_charts/tree/develop))
+### [Kubernetes_helm_charts](https://github.com/SHCHERBANV/devops_todolist_kubernetes_task_12_helm_charts/tree/develop)
 
 Deployed a Django-based ToDo list application with a MySQL database in a Kubernetes cluster using Helm charts. The setup supports automated scaling, resource management, and monitoring.
 
@@ -37,7 +37,7 @@ Helm Charts: Developed Helm charts for the app and MySQL.
 Automation: Scripted automated deployment.
 Monitoring: Set up Prometheus and Grafana monitoring.
 
-### [Azure]([https://github.com/SHCHERBANV/project-2](https://github.com/SHCHERBANV/azure_task_12_deploy_app_with_vm_extention/tree/develop))
+### [Azure](https://github.com/SHCHERBANV/azure_task_12_deploy_app_with_vm_extention/tree/develop)
 
 This project involves automating the deployment of a ToDo web application on an Azure Virtual Machine using PowerShell and a VM extension. The goal is to deploy a VM, automatically install the web app, and ensure it runs on port 8080 without manual intervention.
 
@@ -52,7 +52,7 @@ Script Development: Wrote a PowerShell script to deploy a VM and install the ToD
 Automation: Configured VM extension to run a Bash script that clones the app from a GitHub repository.
 Deployment: Deployed the application and verified it runs on the VM.
 
-### [ci/cd_pipeline]([https://github.com/SHCHERBANV/project-3](https://github.com/SHCHERBANV/devops_todolist_cicd_task_6_polish_pipeline/tree/develop))
+### [ci/cd_pipeline](https://github.com/SHCHERBANV/devops_todolist_cicd_task_6_polish_pipeline/tree/develop)
 
 This project improves the CI/CD pipeline for a Django-based ToDo app by integrating Docker and GitHub Actions. It automates building and pushing Docker images, runs tests across multiple environments, and enforces branch protection with manual approvals for staging deployments.
 
@@ -68,7 +68,7 @@ Branch Protection: Enforced pull requests and status checks.
 Manual Approval: Required for staging deployment.
 
 
-### [Deploying  application with Terraform]([https://github.com/SHCHERBANV/project-3](https://github.com/SHCHERBANV/devops_todolist_terraform_task/tree/develop))
+### [Deploying  application with Terraform](https://github.com/SHCHERBANV/devops_todolist_terraform_task/tree/develop)
 This task uses Terraform to deploy a Todo List app on an Azure Virtual Machine. It automates provisioning Azure resources like Virtual Network, Subnet, Network Security Group, Public IP, VM, and storage. The VM extension automates the app's installation.
 
 Technologies:
@@ -89,7 +89,7 @@ Testing: Ensure successful deployment and app functionality.
 
 
 
-### [Project Name 5](https://github.com/SHCHERBANV/project-3)
+### [Project Name 5](https://github.com/SHCHERBANV/project-5)
 Description of the project, technologies used, and your role in the project.
 
 
