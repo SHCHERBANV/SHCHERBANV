@@ -13,8 +13,7 @@ I’m open to collaborating on open-source DevOps projects, especially those inv
 - **Email:** [shcherbanvasyl@gmail.com](mailto:shcherbanvasyl@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/vasyl-shcherban/)
 
-⚡ **Fun Fact**
-I’ve worked on various hospitality projects overseas, giving me a unique perspective on teamwork and service quality.
+
 
 ## Projects
 
