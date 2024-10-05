@@ -104,3 +104,7 @@ Description of the project, technologies used, and your role in the project.
 - **Infrastructure as Code:** Terraform
 - **Database Management:** SQL
 - **Version Control:** Git
+
+
+
+[![My Credly Badge](https://www.credly.com/organizations/organization-image-url)](https://www.credly.com/badges/79e1c16e-5634-4c74-9214-6cb1027750fc/public_url)
