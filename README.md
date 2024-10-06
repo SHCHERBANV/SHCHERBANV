@@ -1,7 +1,7 @@
 # Hi, I'm Vasyl Shcherban (@SHCHERBANV)
 
 👋 **About Me**
-I'm a DevOps/Cloud engineer with a background in conveyor belt technology and hospitality. Currently, I'm honing my skills in DevOps practices and cloud technologies.
+I'm a DevOps/Cloud engineer who is on the early start of  my new career. Currently, I'm honing my skills in DevOps practices and cloud technologies.
 
 🌱 **Currently Learning**
 I'm diving deep into advanced Kubernetes configurations and CI/CD pipelines using GitHub Actions.
